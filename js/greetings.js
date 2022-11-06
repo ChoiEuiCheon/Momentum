@@ -28,4 +28,3 @@ if(savedUsedrname===null){
 }else{
     paintGreetings();
 }
-console.log(savedUsedrname);
