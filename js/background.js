@@ -1,4 +1,4 @@
-const images = ["1.jpg", "2.jpg", "3.jpg"];
+const images = ["1.jpg", "2.jpg", "3.jpg","4.jpg"];
 // images 배열에 배경으로 둘 사진 이름 저장
 
 const chosenImage = images[Math.floor(Math.random()*images.length)];
