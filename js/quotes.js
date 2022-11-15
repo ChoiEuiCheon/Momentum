@@ -1,43 +1,43 @@
 const quotes = [
     {
-        quote : "1",
-        author : "1"
+        quote : "Without friends no one would choose to live, though he had all other goods.",
+        author : "Aristotle"
     },
     {
-        quote : "2",
-        author : "2"
+        quote : "What makes the desert beautiful is that somewhere it hides a well.",
+        author : "Antoine de Saint-Exupery"
     },
     {
-        quote : "3",
-        author : "3"
+        quote : "Money is the sinew of love as well as war.",
+        author : "Thomas Fuller"
     },
     {
-        quote : "4",
-        author : "4"
+        quote : "The Argument from Intimidation is a confession of intellectual impotence.",
+        author : "Ayn Rand"
     },
     {
-        quote : "5",
-        author : "5"
+        quote : "Try not to become a man of success but rather to become a man of value.",
+        author : "Albert Einstein"
     },
     {
-        quote : "6",
-        author : "6"
+        quote : "Everyone has his day and some days last longer than others.",
+        author : "Sir Winston Churchill"
     },
     {
-        quote : "7",
-        author : "7"
+        quote : "In the field of observation, chance favors only the prepared mind.",
+        author : "Louis Pasteur"
     },
     {
-        quote : "8",
-        author : "8"
+        quote : "One must desire something to be alive.",
+        author : "Margaret Deland"
     },
     {
-        quote : "9",
-        author : "9"
+        quote : "Take hope from the heart of man, and you make him a beast of prey",
+        author : "Quida"
     },
     {
-        quote : "10",
-        author : "10"
+        quote : "A day without laughter is a day wasted.",
+        author : "Charlie Chaplin"
     }
 ]; // 명언을 저장하는 ArrayList
 
