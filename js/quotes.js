@@ -1,42 +1,42 @@
 const quotes = [
     {
-        quote : "Without friends no one would choose to live, though he had all other goods.",
+        quote : "Without friends no one would choose to live, though he had all other goods - ",
         author : "Aristotle"
     },
     {
-        quote : "What makes the desert beautiful is that somewhere it hides a well.",
+        quote : "What makes the desert beautiful is that somewhere it hides a well - ",
         author : "Antoine de Saint-Exupery"
     },
     {
-        quote : "Money is the sinew of love as well as war.",
+        quote : "Money is the sinew of love as well as war - ",
         author : "Thomas Fuller"
     },
     {
-        quote : "The Argument from Intimidation is a confession of intellectual impotence.",
+        quote : "The Argument from Intimidation is a confession of intellectual impotence - ",
         author : "Ayn Rand"
     },
     {
-        quote : "Try not to become a man of success but rather to become a man of value.",
+        quote : "Try not to become a man of success but rather to become a man of value - ",
         author : "Albert Einstein"
     },
     {
-        quote : "Everyone has his day and some days last longer than others.",
+        quote : "Everyone has his day and some days last longer than others - ",
         author : "Sir Winston Churchill"
     },
     {
-        quote : "In the field of observation, chance favors only the prepared mind.",
+        quote : "In the field of observation, chance favors only the prepared mind - ",
         author : "Louis Pasteur"
     },
     {
-        quote : "One must desire something to be alive.",
+        quote : "One must desire something to be alive - ",
         author : "Margaret Deland"
     },
     {
-        quote : "Take hope from the heart of man, and you make him a beast of prey",
+        quote : "Take hope from the heart of man, and you make him a beast of prey - ",
         author : "Quida"
     },
     {
-        quote : "A day without laughter is a day wasted.",
+        quote : "A day without laughter is a day wasted - ",
         author : "Charlie Chaplin"
     }
 ]; // 명언을 저장하는 ArrayList
