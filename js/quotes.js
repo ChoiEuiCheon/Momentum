@@ -39,7 +39,7 @@ const quotes = [
         quote : "A day without laughter is a day wasted - ",
         author : "Charlie Chaplin"
     }
-]; // 명언을 저장하는 ArrayList
+]; // 명언 저장 ArrayList
 
 const quote = document.querySelector("#quote span:first-child");
 //html안의 div quote안의 first-child(첫번째) span을 호출하고 quote변수에 저장
