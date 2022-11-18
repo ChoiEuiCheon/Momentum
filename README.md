@@ -1,2 +1,2 @@
 # Momentum
-this is Momentum Clone App using Vanila JS
+This is Momentum Clone App using Vanila JS
